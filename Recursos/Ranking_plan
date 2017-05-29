@@ -1,0 +1,10 @@
+Plan de acción para el ranking de máximas puntuaciones:
+
+  1- En el mismo evento de cuando pierde el personaje, debe aparecer un input field de la UI de unity 
+     donde se pondra el nombre del jugador.
+  2- El nombre del jugador se recogera mediante un botón cuando el jugador haya introducido 3 
+     caracteres.
+  3- Una vez haya dado al boton de "input", se activaran los botones para volver al menu o reiniciar 
+     el juego.
+  4- el boton de ranking del principio de la aplicacion llevara a otra escena donde se visualizaran las 
+     5 mayores puntuaciones.
